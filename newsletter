@@ -1,4 +1,4 @@
-[7:59 pm, 18/03/2024] Tejasree: import java.util.Random;
+ import java.util.Random;
 import java.util.Scanner;
 
 public class NumberGuessingGame {
